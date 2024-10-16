@@ -24,7 +24,3 @@ let isLoggedIn = true //boolean
 
 console.log(typeof null);
 console.log(typeof undefined);
-
-
-
-
