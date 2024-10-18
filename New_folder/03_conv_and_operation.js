@@ -36,7 +36,7 @@
 // we can add new value and manipulate the given result
 
 // console.log("1" + 1 + 1);
-// we got 11 as output cause 1st vaue is a str so others will also treat same.
+// we got 111 as output cause 1st vaue is a str so others will also treat same.
 
 // console.log(1 + 1 + "1");
 // output is 21 for same reason 1st and 2nd value num and 3rd is str.
