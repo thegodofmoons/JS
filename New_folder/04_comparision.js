@@ -14,3 +14,7 @@
 // console.log(1 >= 2);
 // console.log(1 =< 2);
 
+// console.log(nul == 0);
+
+// console.log("2" === 2);
+
