@@ -14,8 +14,24 @@ const myArray1 = new Array(1, 2, 3, 4)
 
 // myArray.unshift(9)
 
-console.log(myArray.includes(9));
+// console.log(myArray.includes(9));
+// console.log(myArray.indexOf(3));
+
 console.log(myArray);
+console.log(myArray1);
+
+// slice, splice
+console.log("A ", myArray);
+
+const myn1 = myArray.slice(1, 3)
+console.log(myn1);
+console.log("B ", myArray);
+
+const myn2 = myArray.slice(1, 3)
+console.log(myn2);
+
+
+
 
 
 
