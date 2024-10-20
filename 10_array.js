@@ -27,10 +27,13 @@ const myn1 = myArray.slice(1, 3)
 console.log(myn1);
 console.log("B ", myArray);
 
-const myn2 = myArray.slice(1, 3)
+// slice & splice
+
+// const myn2 = myArray.slice(1, 3)
+// console.log(myn2);
+
+const myn2 = myArray.splice(1, 3)
 console.log(myn2);
-
-
 
 
 
